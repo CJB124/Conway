@@ -1,5 +1,4 @@
 //Created by Colton Blake
-//Modeled after Bill Laboon
 
 import java.awt.*;
 import java.awt.event.*;
